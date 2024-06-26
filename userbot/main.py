@@ -56,8 +56,8 @@ ALIVE_MESAJLAR = [
     "✨ `N Σ O N botun sahibinin əmirlərinə hazırdı...`",
     "`Sən bu dəqiqə dunyanın ən panyatkalı UserBotunu işlədirsən.`",
     "`Hay can!` `Məni çağırdın⁉️ Arada imkan ver zoğallı çayımı içim.`",
-    "`Hokus Pokus 🔮! Narahat olma buralardayam. Nəsə olsa Fədai gilin PS4 oturmuşam.`",
-    "`Mənə zəng eləmişdin ❓ Çayçıdayam oturmuşam birazdan gələcəm`"]
+    "`Hokus Pokus 🔮! Narahat olma buralardayam. Nəsə olsa Yaqub gilin PS4 də oturmuşam.`",
+    "`Mənə zəng eləmişdin ❓ Çayçıdayam birazdan gələcəm`"]
 
 UNAPPROVED_MSG = (
     "__Salam__ {mention} __, necəsən?__\n"
