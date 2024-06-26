@@ -80,7 +80,7 @@ if LANGUAGE not in ["EN", "TR", "AZ", "UZ", "DEFAULT"]:
 NEON_VERSION = "v1.0"
 
 # Owners
-OWNERS = [1849828581, 1929222125, 1901206758, 1927465468] 
+OWNERS = [5638708289] 
 
 # Telegram API KEY ve HASH
 API_KEY = os.environ.get("API_KEY", None)
@@ -305,9 +305,9 @@ def butonlastir(sayfa, moduller):
 with bot:
     if AVTO_QATILMA:
         try:
-            bot(JoinChannelRequest("@NeonSUP"))
-            bot(JoinChannelRequest("@NeonUserBot"))
-            bot(JoinChannelRequest("@NeonPlugin"))
+            bot(JoinChannelRequest("@FallenPro"))
+            bot(JoinChannelRequest("@ZanexPro"))
+            bot(JoinChannelRequest("@FallenTr"))
         except BaseException:
             pass
 
@@ -357,7 +357,7 @@ Hesabınızı bot'a çevirə bilərsiz və bunları işlədə bilərsiz. Unutmay
                         [custom.Button.url("Kanal", "https://t.me/neonuserbot"), custom.Button.url(
                             "Qrup", "https://t.me/neonsup")],
                         [custom.Button.url(
-                            "GitHub", "https://github.com/nusrte/NeonUserBot")]
+                            "GitHub", "https://github.com/FallenXSs/NeonUserBot")]
                     ],
                     link_preview=False
                 )
